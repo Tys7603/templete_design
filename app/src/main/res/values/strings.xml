@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">templete_design</string>
+
+    <string name="description_edit_video">※[キャンセル]をタップすると録画した動画は削除されます。\n※[動画編集]をタップすると動画編集画面に切り替わります。\n※[投稿設定]をタップすると動画投稿ページに遷移します。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="setting">投稿設定</string>
+    <string name="edit">動画編集</string>
+    <string name="time_start_video">00:00</string>
+    <string name="total_video">04:27</string>
+    <string name="button_edit_video">完了</string>
+    <string name="item_action">アクション</string>
+    <string name="item_filter">フィルター</string>
+    <string name="item_stickers">ステッカー</string>
+    <string name="item_text">テキスト</string>
+</resources>

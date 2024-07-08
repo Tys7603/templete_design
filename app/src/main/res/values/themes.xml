@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Templete_design" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Templete_design" parent="Base.Theme.Templete_design" />
+
+    <style name="text_black_w6_14">
+      <item name="android:textSize">14sp</item>
+      <item name="android:fontFamily">@font/hiragino_kaku_gothic_pro_w6</item>
+    </style>
+
+    <style name="text_black_w3_12">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/hiragino_kaku_gothic_pro_w3</item>
+    </style>
+
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@drawable/bg_white</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>
